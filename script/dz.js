@@ -64,42 +64,42 @@ async function privatbankMore(urlMore){
              <tr>
                 <td>USD</td>
                 <td>${dataMore.exchangeRate[14].purchaseRateNB}</td>
-                <td>${dataMore.exchangeRate[14].saleRateNB}</td>
+                <td>${dataMore.exchangeRate[14].saleRate}</td>
             </tr>
             <tr>
                 <td>EUR</td>
                 <td>${dataMore.exchangeRate[16].purchaseRateNB}</td>
-                <td>${dataMore.exchangeRate[16].saleRateNB}</td>
+                <td>${dataMore.exchangeRate[16].saleRate}</td>
             </tr>
             <tr>
                 <td>CHF</td>
                 <td>${dataMore.exchangeRate[12].purchaseRateNB}</td>
-                <td>${dataMore.exchangeRate[12].saleRateNB}</td>
+                <td>${dataMore.exchangeRate[12].saleRate}</td>
             </tr>
              <tr>
                 <td>GBP</td>
                 <td>${dataMore.exchangeRate[13].purchaseRateNB}</td>
-                <td>${dataMore.exchangeRate[13].saleRateNB}</td>
+                <td>${dataMore.exchangeRate[13].saleRate}</td>
             </tr>
             <tr>
                 <td>PLZ</td>
                 <td>${dataMore.exchangeRate[18].purchaseRateNB}</td>
-                <td>${dataMore.exchangeRate[18].saleRateNB}</td>
+                <td>${dataMore.exchangeRate[18].saleRate}</td>
             </tr>
             <tr>
-                <td>SEK</td>
-                <td>${dataMore.exchangeRate[11].purchaseRateNB}</td>
-                <td>${dataMore.exchangeRate[11].saleRateNB}</td>
+                <td>JPY</td>
+                <td>${dataMore.exchangeRate[6].purchaseRateNB}</td>
+                <td>${dataMore.exchangeRate[6].saleRate}</td>
             </tr>
             <tr>
                 <td>CAD</td>
                 <td>${dataMore.exchangeRate[1].purchaseRateNB}</td>
-                <td>${dataMore.exchangeRate[1].saleRateNB}</td>
+                <td>${dataMore.exchangeRate[1].saleRate}</td>
             </tr>
             <tr>
                 <td>NOK</td>
                 <td>${dataMore.exchangeRate[9].purchaseRateNB}</td>
-                <td>${dataMore.exchangeRate[9].saleRateNB}</td>
+                <td>${dataMore.exchangeRate[9].saleRate}</td>
             </tr>
 
         </table>
